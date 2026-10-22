@@ -1,0 +1,30 @@
+# Video files (too large for GitHub - exceeds 100MB limit)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Editor/IDE folders & logs
+.cursor/
+.vscode/
+.idea/
+*.log
+
+# Environment & credentials
+.env
+.env.*
+*.env
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Node dependencies (if added)
+node_modules/
+
+# Test / scratch files
+test-*.html
+test-*.js
+
