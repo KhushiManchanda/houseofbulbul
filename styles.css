@@ -45,8 +45,8 @@
 /* ---------- ALOJA FONT ---------- */
 @font-face {
   font-family: 'Aloja';
-  src: url('fonts/Aloja-Extended.woff2') format('woff2'),
-    url('fonts/Aloja-Extended.woff') format('woff'),
+  src: url('/fonts/Aloja-Extended.woff2') format('woff2'),
+    url('/fonts/Aloja-Extended.woff') format('woff'),
     url('https://db.onlinewebfonts.com/t/b12cce617218fe8bfa367def9a61af72.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
