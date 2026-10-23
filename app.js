@@ -476,7 +476,7 @@ function openCollectionPage(handle, push = true) {
   filterByCollection(handle);
 
   if (push) {
-    history.pushState({ view: "collection", handle: handle }, "", `#collection/${handle}`);
+    history.pushState({ view: "collection", handle: handle }, "", `/collections/${handle}`);
   }
 
   window.scrollTo({ top: 0, behavior: "smooth" });
@@ -496,7 +496,7 @@ function showCategoryFoldersView(push = true) {
   if (foldersSection) foldersSection.style.display = "block";
 
   if (push) {
-    history.pushState({ view: "products" }, "", "#products");
+    history.pushState({ view: "products" }, "", "/products");
   }
 
   // Re-awaken 3D folders and reset open state so they are ready to hover/click again
@@ -1145,8 +1145,12 @@ function openProductPage(id, push = true) {
   renderProductDetailPage(id);
 
   if (push) {
-    history.pushState({ view: "product", id: id }, "", `#product/${id}`);
+    const slug = p.handle || id;
+    history.pushState({ view: "product", id: id }, "", `/products/${slug}`);
   }
+
+  const parsed = parseProductTitle(p.name);
+  document.title = `${parsed.mainTitle} — House of Bulbul`;
 
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
@@ -1161,18 +1165,20 @@ function closeProductPage(push = true) {
   if (currentCollectionHandle) {
     if (collectionSection) collectionSection.style.display = "block";
     filterByCollection(currentCollectionHandle);
-    if (push) history.pushState({ view: "collection", handle: currentCollectionHandle }, "", `#collection/${currentCollectionHandle}`);
+    if (push) history.pushState({ view: "collection", handle: currentCollectionHandle }, "", `/collections/${currentCollectionHandle}`);
   } else {
     if (foldersSection) foldersSection.style.display = "block";
     showCategoryFoldersView(push);
+    if (push) history.pushState({ view: "products" }, "", `/products`);
   }
 
+  document.title = "House of Bulbul — Handmade Wedding Favours & Festive Keepsakes";
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 // ---------- NATURAL NAVIGATION BACK (Browser Back / Gesture / Button) ----------
 function navigateBack() {
-  if (window.history.length > 1 && window.location.hash && window.location.hash !== "#home") {
+  if (window.history.length > 1) {
     window.history.back();
   } else {
     const pdpSection = document.getElementById("productDetailPageSection");
@@ -1187,35 +1193,106 @@ function navigateBack() {
   }
 }
 
-// URL & Hash History Synchronizer
+// URL & Hash History Synchronizer (Full SPA SEO & Shopify URL Migration)
 function handleRoute() {
+  const pathname = window.location.pathname.replace(/\/$/, "");
   const hash = window.location.hash || "";
-  
-  if (hash.startsWith("#product/")) {
-    const id = hash.replace("#product/", "").trim();
-    if (PRODUCTS[id]) {
-      openProductPage(id, false);
+
+  // 1. Product Route: /products/:slug, /product/:slug or #product/:id
+  if (pathname.startsWith("/products/") || pathname.startsWith("/product/") || hash.startsWith("#product/") || hash.startsWith("#product-")) {
+    let raw = "";
+    if (pathname.startsWith("/products/")) raw = pathname.replace("/products/", "");
+    else if (pathname.startsWith("/product/")) raw = pathname.replace("/product/", "");
+    else if (hash.startsWith("#product/")) raw = hash.replace("#product/", "");
+    else if (hash.startsWith("#product-")) raw = hash.replace("#product-", "");
+
+    const slug = decodeURIComponent(raw).trim().toLowerCase();
+
+    // Match by handle, numeric id, or title slug
+    const found = Object.values(PRODUCTS).find(p => {
+      if (p.handle && p.handle.toLowerCase() === slug) return true;
+      if (String(p.id) === slug) return true;
+      const nameSlug = (p.name || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+      return nameSlug === slug;
+    });
+
+    if (found) {
+      openProductPage(found.id, false);
+      return;
+    } else {
+      // Archived / discontinued Shopify product link clicked from Google
+      showView("products", false);
+      openCollectionPage("all", false);
+      showArchivedNotice(slug);
       return;
     }
   }
-  
-  if (hash.startsWith("#collection/")) {
-    const handle = hash.replace("#collection/", "").trim();
+
+  // 2. Collection Route: /collections/:handle or #collection/:handle
+  if (pathname.startsWith("/collections/") || pathname.startsWith("/collection/") || hash.startsWith("#collection/")) {
+    let raw = "";
+    if (pathname.startsWith("/collections/")) raw = pathname.replace("/collections/", "");
+    else if (pathname.startsWith("/collection/")) raw = pathname.replace("/collection/", "");
+    else if (hash.startsWith("#collection/")) raw = hash.replace("#collection/", "");
+
+    const handle = decodeURIComponent(raw).trim().toLowerCase();
     showView("products", false);
-    openCollectionPage(handle, false);
+    openCollectionPage(handle || "all", false);
     return;
   }
-  
-  if (hash === "#products" || hash === "#catalogue") {
+
+  // 3. Products Catalogue root
+  if (pathname === "/products" || pathname === "/catalogue" || hash === "#products" || hash === "#catalogue") {
     showView("products", false);
     showCategoryFoldersView(false);
     return;
   }
-  
-  if (hash === "#home" || hash === "") {
+
+  // 4. Default Home
+  if (pathname === "" || pathname === "/" || hash === "#home" || hash === "") {
     showView("home", false);
+    document.title = "House of Bulbul — Handmade Wedding Favours & Festive Keepsakes";
     return;
   }
+}
+
+function showArchivedNotice(slug) {
+  const cleanName = slug
+    .replace(/[-_]+/g, ' ')
+    .replace(/\b\w/g, l => l.toUpperCase());
+
+  let banner = document.getElementById("archivedProductBanner");
+  if (!banner) {
+    banner = document.createElement("div");
+    banner.id = "archivedProductBanner";
+    banner.className = "archived-product-banner";
+    const header = document.querySelector("#collectionPageSection .collection-page-header");
+    if (header) {
+      header.parentNode.insertBefore(banner, header);
+    }
+  }
+
+  const waMsg = `Namaste House of Bulbul. I was searching for "${cleanName}". Is this piece available for bespoke made-to-order?`;
+
+  banner.innerHTML = `
+    <div class="archived-banner-content">
+      <div class="archived-banner-badge">BESPOKE ARCHIVE</div>
+      <h3 class="archived-banner-title">Looking for <em>"${cleanName}"</em>?</h3>
+      <p class="archived-banner-desc">
+        This design was part of our limited celebratory edition or is crafted exclusively upon custom request. 
+        Explore our curated collection below or request this exact piece via our artisan concierge.
+      </p>
+      <div class="archived-banner-actions">
+        <a href="https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(waMsg)}" target="_blank" class="archived-banner-wa-btn">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+            <path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.39 1.26 4.82L2 22l5.44-1.38a9.9 9.9 0 0 0 4.6 1.11h.01c5.46 0 9.9-4.45 9.9-9.9C22 6.45 17.5 2 12.04 2zm5.92 14.07c-.25.7-1.45 1.34-2 1.42-.53.08-1.19.11-1.92-.12-.44-.14-1.02-.33-1.75-.65-3.08-1.33-5.09-4.42-5.24-4.62-.15-.2-1.26-1.68-1.26-3.2 0-1.53.8-2.28 1.08-2.6.28-.31.62-.39.83-.39.21 0 .42 0 .6.01.19.01.45-.07.7.54.25.61.86 2.1.94 2.25.08.15.13.33.02.53-.11.2-.16.33-.32.5-.16.18-.34.4-.48.54-.16.15-.33.32-.14.63.19.31.85 1.4 1.82 2.27 1.25 1.12 2.31 1.47 2.62 1.63.31.16.49.14.67-.08.18-.22.77-.9.98-1.21.21-.31.42-.26.7-.15.28.1 1.76.83 2.06.98.3.15.5.22.57.35.08.13.08.75-.17 1.44z"/>
+          </svg>
+          <span>Enquire on WhatsApp Concierge &rarr;</span>
+        </a>
+        <button class="archived-banner-close" onclick="document.getElementById('archivedProductBanner')?.remove()">Dismiss</button>
+      </div>
+    </div>
+  `;
 }
 
 window.addEventListener("popstate", handleRoute);

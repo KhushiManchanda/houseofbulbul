@@ -27,7 +27,7 @@ let xml = `<?xml version="1.0" encoding="UTF-8"?>
 
   <!-- Products & Catalogue View -->
   <url>
-    <loc>${BASE_URL}/#products</loc>
+    <loc>${BASE_URL}/products</loc>
     <lastmod>${today}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
@@ -37,7 +37,7 @@ let xml = `<?xml version="1.0" encoding="UTF-8"?>
 // Add Category Collections
 for (const [handle, coll] of Object.entries(collections)) {
   xml += `  <url>
-    <loc>${BASE_URL}/#collection/${handle}</loc>
+    <loc>${BASE_URL}/collections/${handle}</loc>
     <lastmod>${today}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -54,9 +54,10 @@ for (const [id, prod] of Object.entries(products)) {
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&apos;');
   const imgUrl = (prod.img || '').replace(/&/g, '&amp;');
+  const prodSlug = prod.handle || id;
   
   xml += `  <url>
-    <loc>${BASE_URL}/#product/${id}</loc>
+    <loc>${BASE_URL}/products/${prodSlug}</loc>
     <lastmod>${today}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

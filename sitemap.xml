@@ -5,207 +5,207 @@
   <!-- Homepage -->
   <url>
     <loc>https://houseofbulbul.com/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- Products & Catalogue View -->
   <url>
-    <loc>https://houseofbulbul.com/#products</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/all</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/all</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/wedding-favours</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/wedding-favours</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/sacred-gifting</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/sacred-gifting</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/kanjak-navratri</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/kanjak-navratri</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/diwali-gifting</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/diwali-gifting</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/lohri-sankranti</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/lohri-sankranti</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/boho-bags</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/boho-bags</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/boho-clutches</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/boho-clutches</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/pouches</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/pouches</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/bulbul-parandi</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/bulbul-parandi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/bulbul-earrings</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/bulbul-earrings</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/bulbul-keychains</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/bulbul-keychains</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/choker</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/choker</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/rakhi</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/rakhi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/christmas-and-newyear-collection</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/christmas-and-newyear-collection</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/crochet-collection</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/crochet-collection</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/the-artisan-brooch-collection</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/the-artisan-brooch-collection</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/handcuffs</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/handcuffs</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/holi-collection</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/holi-collection</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/wall-hangings</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/wall-hangings</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/frontpage</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/frontpage</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/navratri-gifting</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/navratri-gifting</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/lohri-collection</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/lohri-collection</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/navratri-collection</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/navratri-collection</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/nutty-bliss</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/nutty-bliss</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/sacred-gifting-by-house-of-bulbul</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/sacred-gifting-by-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/sip-sparkle-beachwear-statement-jewelry-collection</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/sip-sparkle-beachwear-statement-jewelry-collection</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/the-bulbul-royal-edit</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/the-bulbul-royal-edit</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/home-decor</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/home-decor</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/waist-belts</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/waist-belts</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#collection/wall-plates</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/collections/wall-plates</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9294165967060</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-shell-bag-with-pearls-beach-boho-shoulder-bag-for-women</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -214,8 +214,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9211841085652</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-16jun_13-20-17</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -224,8 +224,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9205130232020</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/royal-blue-gota-patti-statement-cuff-bracelet-handmade-embroidered-boho-wrist-cuff-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -234,8 +234,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9204102791380</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/navratri-special-multi-way-cowrie-shell-tassel-accessory-hair-collar-boho-styling-piece</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -244,8 +244,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9204036894932</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-seashell-charm-accessory-multi-wear-necklace-hair-tie-bag-charm-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -254,8 +254,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203909296340</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/candy-cane-bow-beaded-earrings-handmade-christmas-statement-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -264,8 +264,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203796312276</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-14jun_15-33-16</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -274,8 +274,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203851264212</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-boho-evil-eye-statement-earrings-beaded-artisan-earrings-for-women-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -284,8 +284,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203808895188</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-tribal-beaded-statement-earrings-colorful-boho-earrings-for-women-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -294,8 +294,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203794673876</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-sun-face-statement-earrings-bohemian-beaded-celestial-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -304,8 +304,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203784351956</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/rainbow-beaded-arch-earrings-handmade-colorful-statement-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -314,8 +314,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203782484180</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/green-beaded-parrot-brooch-pin-handmade-statement-brooch-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -324,8 +324,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203781435604</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/boho-tassel-earrings-blue-beaded-statement-earrings-handmade-jewelry-by-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -334,8 +334,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203769278676</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/tropical-cocktail-earrings-handmade-beaded-statement-earrings-vacation-jewelry-by-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -344,8 +344,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203735429332</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/christmas-cactus-earrings-handmade-holiday-statement-earrings-festive-beaded-jewelry-by-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -354,8 +354,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203444416724</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/coral-crab-statement-earrings-handmade-coastal-earrings-beach-inspired-jewelry-by-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -364,8 +364,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203442417876</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-parrot-toran-for-door-decoration-boho-wall-hanging-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -374,8 +374,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203441959124</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/moonflower-hoop-earrings-white-floral-sequin-statement-hoops-handmade-earrings-by-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -384,8 +384,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203441107156</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/turquoise-beaded-statement-earrings-handmade-crystal-embellished-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -394,8 +394,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203440746708</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/pink-crystal-leaf-statement-earrings-handmade-rhinestone-party-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -404,8 +404,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203438780628</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-santa-hat-earrings-christmas-statement-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -414,8 +414,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203334906068</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/hot-pink-braided-tassel-earrings-handmade-statement-earrings-for-women-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -424,8 +424,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203285491924</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/peach-beaded-bird-statement-earrings-handmade-tropical-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -434,8 +434,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203218514132</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/lemon-slice-beaded-statement-earrings-handmade-summer-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -444,8 +444,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203175129300</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/boo-beaded-statement-earrings-handmade-halloween-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -454,8 +454,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203173687508</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/indigo-pearl-statement-earrings-handmade-beaded-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -464,8 +464,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203171918036</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/purple-crystal-wrap-bracelet-handmade-layered-beaded-bracelet-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -474,8 +474,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203164545236</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/coral-sequin-statement-bracelet-handmade-boho-bracelet-house-of-bulbul-1-pc</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -484,8 +484,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203156123860</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/pink-pineapple-beaded-statement-earrings-handmade-tropical-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -494,8 +494,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203152519380</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/marigold-bloom-handmade-beaded-tassel-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -504,8 +504,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9203140755668</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/evil-eye-beaded-statement-earrings-for-women-handmade-blue-boho-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -514,8 +514,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9201306534100</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/pastel-candy-beaded-tassel-earrings-for-women-handmade-statement-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -524,8 +524,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9200724574420</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-10jun_23-51-06</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -534,8 +534,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9200726409428</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/candy-confetti-statement-necklace-handmade-colorful-beaded-necklace-for-women-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -544,8 +544,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9200616243412</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/beaded-beetle-brooch-pin-for-women-handmade-statement-insect-brooch-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -554,8 +554,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9200573087956</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/pink-turquoise-raffia-statement-earrings-boho-fringe-earrings-for-women-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -564,8 +564,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9200499622100</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/evil-eye-heart-earrings-handmade-statement-earrings-boho-gothic-jewelry-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -574,8 +574,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9200459710676</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/skeleton-statement-earrings-halloween-party-earrings-baddie-fashion-jewelry</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -584,8 +584,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9200312877268</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/beaded-statement-earrings-handmade-boho-drop-earrings</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -594,8 +594,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9200221225172</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/orange-evil-eye-beaded-statement-earrings-handmade-boho-protection-earrings</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -604,8 +604,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9200189407444</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/valentines-inspired-beaded-earrings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -614,8 +614,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9200153460948</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/blue-bird-beaded-statement-earrings-handmade-sequin-bird-earrings</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -624,8 +624,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9200140648660</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/long-beaded-tassel-earrings-lightweight-boho-statement-earrings</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -634,8 +634,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9199894659284</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-turtle-hair-clip-for-girls-women-unique-hair-pins</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -644,8 +644,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9199871459540</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-hair-bow-clip-hot-pink-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -654,8 +654,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9154204696788</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handcrafted-red-rose-crochet-mini-bag-with-pearl-handle-statement-floral-evening-bag</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -664,8 +664,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9123320430804</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/mini-candy-bottle-for-kanjak-cute-return-gift-for-girls-kids-party-favours-navratri-gift-hampers-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -674,8 +674,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9105254154452</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/creative-diy-diamond-painting-kit-perfect-kanjak-navratri-gift-unique-diy-kits-unique-kanjak-gifts-set-of-1</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -684,8 +684,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9104558358740</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/happy-kanjak-gift-card-for-navratri-cute-money-holder-for-kanjak-return-gifts-pack-of-12-money-not-included</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -694,8 +694,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9104557736148</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/happy-kanjak-chocolate-coin-navratri-kanjak-return-gift-chocolate-cute-little-goddess-sticker-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -704,8 +704,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9104164126932</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/little-gift-for-our-little-goddess-navratri-kanjak-gift-card-with-satin-bow-house-of-bulbul-kanjak-hamper-unique-kanjak-gift</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -714,8 +714,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9102691041492</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/navratri-kanjak-gift-soft-handkerchief-cute-microfiber-hanky-for-little-girls-house-of-bulbul-1pc</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -724,8 +724,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9101533085908</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/happy-kanjak-navratri-gift-bangles-maa-durga-blessings-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -734,8 +734,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9101532266708</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/festive-gajra-for-navratri-kanjak-pooja-fresh-jasmine-hair-gajra-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -744,8 +744,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9069696221396</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/laddu-gopal-holi-shringar-set-mini-gulal-bottles-with-kanha-ji-holi-decoration</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -754,8 +754,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9069695434964</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/holi-special-decorative-truck-hamper-luxury-holi-gift-set-with-thandai-pichkari</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -764,8 +764,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9069687734484</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/holi-mini-color-bottle-combo-gulal-bottles-with-golden-decorative-plate</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -774,8 +774,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9069687537876</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/perfect-for-holi-gifting-return-gifts-pooja-hampers-laddu-gopal-shringar</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -784,8 +784,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9069686423764</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/holi-thandai-gift-hamper-premium-thandai-bottles-with-designer-potli-bag</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -794,8 +794,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9069682983124</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/complete-holi-fun-kit-combo-gulal-pack-water-bomb-balloons-color-spray-mini-pichkari-set</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -804,8 +804,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9069681836244</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/premium-holi-gift-hamper-set-gulal-packets-dupatta-shringar-accessories-pichkari-combo</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -814,8 +814,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9069681049812</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/mini-silver-holi-balti-pichkari-set-for-kanha-ji-temple-pooja-decor-item</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -824,8 +824,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9069674922196</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/happy-holi-gift-hamper-premium-holi-kit-with-water-gun-gulal-balloons</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -834,8 +834,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9062552928468</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/happy-holi-party-glasses-for-friends-colorful-holi-theme-sunglasses-props</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -844,8 +844,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9059851600084</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/mini-decorative-nariyal-kalash-dummy-for-puja-gifting</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -854,8 +854,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9059841999060</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/white-pearls-crystal-hair-stickers-for-women-self-adhesive-hair-face-gems</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -864,8 +864,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9059786129620</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-pearl-mini-bag-with-heart-design-white-valentine-shoulder-purse-for-women</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -874,8 +874,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9050402554068</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/luxury-handcrafted-haldi-mehndi-shagun-patri-pre-wedding-ritual-gift-platter-houseofbulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -884,8 +884,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9048821924052</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/crochet-heart-flower-pot-handmade-cute-love-gift-for-valentine-s-day</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -894,8 +894,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9043113148628</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-18jan_02-12</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -904,8 +904,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9044972765396</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-heart-bloom-tulip-openable-love-flower-gift-eternal-yarn-flower</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -914,8 +914,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9043107872980</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/royal-wedding-footprint-platter-set-for-bride-entry-custom-ritual-decor-kanku-platter</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -924,8 +924,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9043107414228</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/royal-couple-handprint-platter-for-weddings-first-invite-ceremonies-custom-made</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -934,8 +934,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9043106955476</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/royal-ganesha-money-lotus-platter-for-weddings-auspicious-gifting-custom-currency-option</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -944,8 +944,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9043106693332</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/pearl-kundan-bracelet-with-ruby-center-pearl-kundan-bracelet-luxury-wedding-return-gift-festive-favour-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -954,8 +954,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9043103940820</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/pearl-evil-eye-elastic-bracelet-wedding-return-gift-favour-bracelet</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -964,8 +964,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9043083264212</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handcrafted-crochet-sunflower-bouquet-everlasting-floral-gift</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -974,8 +974,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9043081134292</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-rose-blanket-bouquet-set-valentine-gift-combo-romantic-luxury-gifting</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -984,8 +984,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9043034308820</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-heart-plant-table-decor-valentine-gift-cute-home-desk-decor</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -994,8 +994,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9043023266004</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/personalised-wedding-thank-you-card-with-tally-counter-wedding-favours</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1004,8 +1004,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9043007963348</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/peacock-theme-ring-platter-for-wedding-custom-initial-ring-tray-with-pearls-feathers</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1014,8 +1014,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9042963923156</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handcrafted-wedding-platter-first-invite-ring-ceremony-gifting-platter-with-floral-canopy</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1024,8 +1024,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9042940133588</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-rose-bouquet-forever-love-gift</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1034,8 +1034,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9042939773140</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-tulip-bouquet-forever-flower-gift</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1044,8 +1044,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9042936594644</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-17jan_10-35</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1054,8 +1054,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9042936135892</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/decorative-tambourines-for-wedding-festive-gifting</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1064,8 +1064,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9042875842772</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-beaded-heart-drop-earrings-pink-red-valentine-statement-earrings</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1074,8 +1074,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9039802040532</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/luxury-floral-cash-gaddi-tray-for-shagun-wedding-festive-gifting-lavender-theme</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1084,8 +1084,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9039736733908</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/jai-guruji-shukrana-guruji-prasad-cones-for-blessing-distribution-1pc</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1094,8 +1094,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9035961073876</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/crystal-bow-statement-earrings-for-women-rhinestone-party-evening-jewelry</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1104,8 +1104,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9035950850260</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/cherry-pop-beaded-earrings-handmade-red-cherry-drop-earrings-for-women</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1114,8 +1114,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9035653939412</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-cactus-embroidered-brooch-beaded-floral-lapel-pin-for-women-statement-artisan-accessory</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1124,8 +1124,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9024483164372</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-23dec_09-08</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1134,8 +1134,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9024446988500</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-christmas-santa-hair-accessory-crochet-santa-hair-tie-for-girls-women</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1144,8 +1144,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9024334889172</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/lohri-makar-sankranti-gift-hamper-festive-stainless-steel-tiffin-with-sweet-treats</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1154,8 +1154,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9024327516372</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/lohri-festive-bangle-box-case-handmade-jewelry-organizer-traditional-lohri-hamper</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1164,8 +1164,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9023678120148</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-merry-christmas-wall-hanging-festive-party-decor-for-home</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1174,8 +1174,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9023348146388</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/lohri-mukhwas-cones-punjabi-lohri-gifting-festive-favors</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1184,8 +1184,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9023342870740</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/lohri-harvest-candle-punjabi-bonfire-candle-for-lohri-gifting</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1194,8 +1194,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9010044240084</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/5pcs-shades-for-team-bride</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1205,8 +1205,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/9003677122772</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-rose-bouquet-soft-pink-yarn-flowers-knitted-rose-bouquet-for-gifting-long-lasting-artificial-flower-bouquet-for-birthday-anniversary-home-decor</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1215,8 +1215,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8998903840980</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-24nov_12-34</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1225,8 +1225,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8998660604116</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-sunflower-bouquet-with-cute-bee-unique-gift-home-decor-house-of-bulbul</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1235,8 +1235,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8998658703572</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-pink-flower-in-pot-cute-table-decor-knitted-home-decor-gift-mini-crochet-plant</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1245,8 +1245,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8998656901332</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-sunflower-in-pot-cute-home-decor-gift-for-her-table-desk-decor</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1255,8 +1255,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8998656049364</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-crochet-rose-in-pot-knitted-decorative-flower-forever-gift-home-decor</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1265,8 +1265,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8998650216660</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/mr-mrs-money-platter-2100-real-currency-with-chocolates-wedding-gift-tray-engagement-roka-presentation</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1275,8 +1275,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8997146198228</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/just-married-car-felt-cushion-handmade-love-car-pillow-wedding-decor-anniversary-gift</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1285,8 +1285,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8997142397140</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/pumpkin-embroidered-cushion-8x8-inch-fall-harvest-pillow-handmade-autumn-home-decor</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1295,8 +1295,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8997138432212</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-turkey-embroidered-cushion-8x8-inch-fall-decor-thanksgiving-accent-pillow</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1305,8 +1305,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8997113594068</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/mr-mrs-felt-ring-cushion-8x8-inch-wedding-decor-handmade-engagement-ring-holder-pillow</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1315,8 +1315,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8993950925012</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/personalised-wedding-favours-gold-heart-chocolate-card-custom-name-cards-indian-wedding-gifts-guest-thank-you-cards</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1325,8 +1325,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8993944600788</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-18nov_15-37</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1335,8 +1335,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8993938768084</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/aesthetic-daisy-flower-candles-haldi-mehendi-favours-gift-pack</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1345,8 +1345,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8993935982804</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/1pc-personalised-haldi-ceremony-jhumka-favour-custom-marigold-theme-haldi-return-gift-bridesmaid-wedding-giveaway</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1355,8 +1355,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8993934180564</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/scented-artificial-gajra-for-hair-washable-reusable-natural-look-jasmine-gajra-lightweight-long-life-floral-accessory</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1365,8 +1365,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8993932247252</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/champagne-style-dry-fruit-bottle-premium-gold-bottle-for-mix-dryfruits-luxury-gifting-hamper-packaging</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1375,8 +1375,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8976066511060</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-30oct_08-25</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1385,8 +1385,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8976064315604</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handcrafted-crochet-sunflower-charm-mobile-bag-keychain-car-hanging</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1395,8 +1395,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8975744991444</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/peacock-feather-patka-with-pearl-tassels-premium-wedding-guest-welcome-accessory</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1405,8 +1405,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8975733915860</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/peacock-feather-brooch-with-pearl-tassels-elegant-wedding-haldi-mehndi-accessory</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1415,8 +1415,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8975728312532</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/evil-eye-beaded-brooch-with-pearl-tassels-wedding-haldi-mehndi-accessory</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1425,8 +1425,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8958771757268</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/urli-diya</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1435,8 +1435,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8957433118932</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/copy-10-pcs-diwali-special-pataka-chocolate-hamper-🎆🍫</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1445,8 +1445,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8955692941524</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-9oct_02-36</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1455,8 +1455,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8957263839444</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/royal-peacock-wedding-satka</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1465,8 +1465,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8955913240788</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/shubh-labh-elephant-mdf-magnet-set-vibrant-printed-wall-fridge-decor</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1475,8 +1475,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8951454531796</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/eco-friendly-reusable-diwali-hamper-basket</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1485,8 +1485,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8951452958932</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/12-inch-decorative-rangoli-platter</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1495,8 +1495,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8939804459220</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/boho-banjaran-tribal-mirror-work-choker</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1505,8 +1505,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8121751240916</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/boho-bebo-choker</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1515,8 +1515,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8134772654292</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/elephant-essence-jute-pouch</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1525,8 +1525,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8937520201940</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/diwali-special-patakha-shape-chocolate-hamper-🎆🍫</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1535,8 +1535,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8937452175572</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/evil-eye-beaded-embellished-headband</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1545,8 +1545,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8937443754196</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handcrafted-rajasthani-lady-tealight-holder-set-of-2</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1555,8 +1555,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8937440674004</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/kanjak-hamper-2</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1565,8 +1565,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8937439592660</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/kanjak-hamper-1</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1575,8 +1575,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8934613680340</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-17sept_22-16</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1585,8 +1585,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8936656765140</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-19sept_16-56</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1595,8 +1595,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8937432973524</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-20sept_22-06</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1605,8 +1605,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8937434579156</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/shubh-labh-decorative-wall-hanging-auspicious-festival-door-pooja-decoration-for-diwali</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1615,8 +1615,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8934606143700</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/vibrant-mirror-work-waist-belt-for-navratri</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1625,8 +1625,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8932243865812</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handcrafted-bohemian-beaded-cowrie-shell-headband</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1635,8 +1635,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8932243177684</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/cowrie-shell-hairband-boho-chic-accessory</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1645,8 +1645,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8932183048404</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/handmade-mirror-work-braid-accessory-with-puppets-ethnic-hair-accessories</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1655,8 +1655,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8932021829844</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/mirror-work-embroidered-hairband</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1665,8 +1665,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8931785277652</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/✨-traditional-karwa-chauth-pooja-thali-set-✨</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1675,8 +1675,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8931779838164</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/exquisite-stainless-steel-puja-thali-set-with-shubh-labh-engraving</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1685,8 +1685,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8931750248660</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/boho-rainbow-woven-clutch</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1695,8 +1695,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8931748544724</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/silver-plated-decorative-bowl-with-spoon-in-velvet-box-1</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1705,8 +1705,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8931748184276</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/silver-plated-bowl-with-spoon-in-velvet-gift-box</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1715,8 +1715,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8931747365076</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/premium-silver-plated-2-bowl-set-with-tray-spoons-in-velvet-gift-box</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1725,8 +1725,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8931746021588</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/silver-plated-decorative-bowl-with-spoon-in-velvet-box</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1735,8 +1735,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8919358996692</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-5sept_20-47</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1745,8 +1745,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917250736340</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/german-silver-sindoor-dani-and-tilak-stick-in-box</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1755,8 +1755,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917249786068</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/swastik-diya-with-box-packing-perfect-for-festive-wedding-gifting</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1765,8 +1765,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917238513876</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/german-silver-pooja-bell-with-box</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1775,8 +1775,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917217935572</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/room-hamper-gift-hamper-snack-hamper</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1785,8 +1785,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917196210388</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/customized-diwali-milk-chocolate-bars-sweet-festive-gifting-🍫✨</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1795,8 +1795,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917195587796</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/resin-ganesha-miniature-frames-auspicious-gifting-✨</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1805,8 +1805,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917177729236</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/ganesh-print-potli-with-urli-diya-festive-wedding-favor-set-✨</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1815,8 +1815,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917167997140</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/swastik-urli-diya-diwali-gifting-return-favor-✨</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1825,8 +1825,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917166162132</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/phera-ghungroo-stick-1-pc</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1835,8 +1835,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917165146324</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/bangle-with-thanku-card-return-gifts</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1845,8 +1845,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917164327124</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/5pcs-shades-for-team-groom</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1856,8 +1856,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917158789332</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/multicolor-decorated-mehendi-cones-wedding-mehendi-favors</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1866,8 +1866,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917157413076</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/quirky-jumka-cards-with-earrings-wedding-event-favors</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1876,8 +1876,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917146075348</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/rope-handle-gifting-bag-5x5-inches-set-of-15-pcs</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1886,8 +1886,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917145944276</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/gotta-lace-potli-bags-set-of-20pcs</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1896,8 +1896,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8917145452756</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/double-organza-potli-with-elephant-tassel-10-pcs</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1906,8 +1906,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8895113986260</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/bhai-aap-best-ho-rakhi-special-krishna-embroidery-hoop-handcrafted-gift-for-brother</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1916,8 +1916,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8880114237652</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/raksha-bandhan-special-chocolate-bar</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1926,8 +1926,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8865548796116</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/nutty-bliss-chocolate-bouquet-a-gift-of-sweet-abundance</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1936,8 +1936,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8858104332500</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/🌺-handcrafted-ganesha-rakhi-blessings-of-wisdom-and-prosperity-🌺</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1946,8 +1946,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8858097680596</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/bhai-bhabhi-love-rakhi-lumba-set-simple-bold-and-bright-🎁</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1956,8 +1956,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8858077397204</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/🎁-bhabhi-love-rakhi-lumba-simple-bold-and-bright-🎁</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1966,8 +1966,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8858074349780</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/🎁-bhai-love-rakhi-simple-bold-and-bright-🎁</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1976,8 +1976,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8856959451348</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-24jun_13-06</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1986,8 +1986,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8858040959188</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-26jun_10-42</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1996,8 +1996,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8858071728340</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/🌟-handmade-kathputli-set-of-rakhi-n-lumba-a-touch-of-tradition-🌟</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2006,8 +2006,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8858068779220</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/🌸-handcrafted-peacock-motif-rakhi-lumba-🌸</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2016,8 +2016,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8858048495828</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/🌸-handcrafted-peacock-motif-rakhi-🌸</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2026,8 +2026,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8856956895444</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/bulbul-s-blue-nazar-lumba</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2036,8 +2036,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8856950309076</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/🌙-bulbul-s-blue-nazar-rakhi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2046,8 +2046,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8856939954388</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/🌙-bulbul-s-blue-nazar-rakhi-duo</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2056,8 +2056,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8856526880980</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/the-girlie-pop-pin</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2066,8 +2066,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8843371020500</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/nutty-bliss</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2076,8 +2076,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8813612957908</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/patola-parandi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2086,8 +2086,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8660227981524</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-19oct_14-25</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2096,8 +2096,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8660209598676</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/sagan-coconut-per-pc</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2106,8 +2106,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8660207993044</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/1-pc-wedding-broches</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2116,8 +2116,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8660207206612</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/1-pc-dholki-favour</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2126,8 +2126,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8660206813396</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/1pc-coustomizated-chocolates</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2136,8 +2136,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8660206715092</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/pack-of-5-decorative-bindi-sheets</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2146,8 +2146,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8660202094804</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/5pcs-sauf-cones</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2156,8 +2156,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8652576129236</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/ladoo-candle-set-of-4</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2166,8 +2166,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8593144676564</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/crochet-tulip-varmala</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2176,8 +2176,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8593143824596</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/crochet-rose-varmala</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2186,8 +2186,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8592869884116</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/pink-blue-mandala-themed-wall-plate</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2196,8 +2196,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8592868016340</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/mirror-rangoli-plate</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2206,8 +2206,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8575565660372</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/bohemian-blossom-choker</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2216,8 +2216,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8574088184020</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/pink-toon-rakhi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2226,8 +2226,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8574087299284</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/blue-toon-rakhi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2236,8 +2236,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8574086906068</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/minion-rakhi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2246,8 +2246,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8571058421972</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/peacocks-grace_-wall-plate</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2256,8 +2256,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8571035222228</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/tidal-treasures-_wall-plate</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2266,8 +2266,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8560214966484</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/evil-3</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2276,8 +2276,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8560428810452</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/mota-bhai</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2286,8 +2286,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8560226402516</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/sis</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2296,8 +2296,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8560220307668</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/teri-yarri-sabse-pyari</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2306,8 +2306,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8560209166548</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/rak</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2316,8 +2316,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8134768099540</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/boho-trail-bag</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2326,8 +2326,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8134756663508</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/boho-bag-mermaid-mirage-clutch</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2336,8 +2336,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8134469222612</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/glamour-envelope</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2346,8 +2346,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8134495830228</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/bling-bling</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2356,8 +2356,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8118615736532</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/rasbhari-parandi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2366,8 +2366,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8117783298260</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/banjaran-choker</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2376,8 +2376,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8117015347412</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/that-palm-leaf</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2386,8 +2386,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8113389568212</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/macrame-keychain-1</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2396,8 +2396,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8113387208916</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/macrame-keychain</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2406,8 +2406,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8112878158036</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/the-owl</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2416,8 +2416,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8112411574484</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/cactus</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2426,8 +2426,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8112298295508</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/unicorn-bliss-1</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2436,8 +2436,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8112291610836</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/unicorn-bliss</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2446,8 +2446,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8112265429204</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/unicorn-made-with-love</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2456,8 +2456,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8112256778452</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/the-lil-birdie-1</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2466,8 +2466,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/8112248422612</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/the-lil-birdie</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2476,8 +2476,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7960357830868</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/untitled-21aug_17-28</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2486,8 +2486,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7949995901140</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/दादा-dada</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2496,8 +2496,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7949996032212</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/वीर</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2506,8 +2506,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7949995737300</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/भाई-राखी</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2516,8 +2516,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7949996228820</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/mera-veer-rakhi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2526,8 +2526,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7948906954964</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/gota-glamor</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2536,8 +2536,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7948906528980</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/pompom-1</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2546,8 +2546,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7948907348180</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/ganesha-2</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2556,8 +2556,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7948906135764</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/ganesha-1</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2566,8 +2566,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7946214408404</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/bulbul-bro-code-rakhi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2576,8 +2576,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7945849110740</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/shree-ganeshay-rakhi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2586,8 +2586,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7945841213652</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/gota-glamour-rakhi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2596,8 +2596,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7944841461972</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/evil-eye</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2606,8 +2606,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7944843067604</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/bro_rakhi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2616,8 +2616,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7944844247252</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/bhai_embroidied-rakhi</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2626,8 +2626,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7932258615508</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/bulbul-necklace-1</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2636,8 +2636,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7824306110676</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/evil-1</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2646,8 +2646,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7824306045140</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/evil</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2656,8 +2656,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7782898663636</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/golden-tree</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2666,8 +2666,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7782329680084</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/rings</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2676,8 +2676,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7782126518484</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/red-pouch</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2686,8 +2686,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7782126158036</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/papper-pouch</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2696,8 +2696,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7680313327828</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/dekhle</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2706,8 +2706,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://houseofbulbul.com/#product/7681357447380</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://houseofbulbul.com/products/potli-pouch</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
