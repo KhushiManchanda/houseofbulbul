@@ -36,6 +36,13 @@ const MIME_TYPES = {
 };
 
 function resolveApiHandler(apiPath) {
+  if (apiPath.startsWith('/api/admin')) {
+    const route = apiPath.replace(/^\/api\/admin\/?/, '');
+    return {
+      file: path.join(ROOT, 'api', 'admin.js'),
+      params: { route }
+    };
+  }
   const parts = apiPath.replace(/^\/+|\/+$/g, '').split('/');
   return findHandler(path.join(ROOT, 'api'), parts, {});
 }

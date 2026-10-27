@@ -2,6 +2,14 @@
   "outputDirectory": ".",
   "rewrites": [
     {
+      "source": "/api/admin/(.*)",
+      "destination": "/api/admin?route=$1"
+    },
+    {
+      "source": "/api/admin",
+      "destination": "/api/admin"
+    },
+    {
       "source": "/admin",
       "destination": "/admin/index.html"
     },
