@@ -7,6 +7,13 @@ const cart = {};
 let currentCollectionHandle = "all";
 let scrollObserver = null;
 
+// Synchronize with live database data if available
+if (typeof window !== 'undefined') {
+  if (window.PRODUCTS) { try { PRODUCTS = window.PRODUCTS; } catch (_) {} }
+  if (window.COLLECTIONS) { try { COLLECTIONS = window.COLLECTIONS; } catch (_) {} }
+  if (window.WHATSAPP_NUMBER) { try { WHATSAPP_NUMBER = window.WHATSAPP_NUMBER; } catch (_) {} }
+}
+
 // #region agent log
 function __dbgProductsLayout(screen, hypothesisId) {
   try {
@@ -212,16 +219,49 @@ function renderHomeCollections() {
   renderHomeProductsGrid('all');
 }
 
+function getActiveCollectionHandles() {
+  const priority = ['all', 'wedding-favours', 'sacred-gifting', 'kanjak-navratri', 'diwali-gifting', 'lohri-sankranti'];
+  const handles = [...priority];
+  const set = new Set(priority);
+
+  if (window.COLLECTIONS) {
+    Object.keys(window.COLLECTIONS).forEach(h => {
+      if (h !== 'all' && !set.has(h)) {
+        const col = window.COLLECTIONS[h];
+        if (col && (col.isFeatured || (col.productIds && col.productIds.length > 0))) {
+          handles.push(h);
+          set.add(h);
+        }
+      }
+    });
+  }
+  return handles;
+}
+
 function renderHomeFilterTabs() {
   const tabsContainer = document.getElementById("homeFilterTabs");
-  if (!tabsContainer) return;
+  if (!tabsContainer || !window.COLLECTIONS) return;
 
-  const handles = ['all', 'wedding-favours', 'sacred-gifting', 'kanjak-navratri', 'diwali-gifting', 'lohri-sankranti'];
+  const handles = getActiveCollectionHandles();
   
   tabsContainer.innerHTML = handles.map(handle => {
     const c = COLLECTIONS[handle];
     if (!c) return '';
     return `<button class="tab-pill ${handle === homeCurrentFilter ? 'active' : ''}" onclick="filterHomeCollection('${handle}')">${c.name}</button>`;
+  }).join('');
+}
+
+function renderCategoryFilterTabs() {
+  const tabsContainer = document.getElementById("categoryFilterTabs");
+  if (!tabsContainer || !window.COLLECTIONS) return;
+
+  const handles = getActiveCollectionHandles();
+
+  tabsContainer.innerHTML = handles.map(handle => {
+    const c = COLLECTIONS[handle];
+    if (!c) return '';
+    const isActive = handle === currentCollectionHandle;
+    return `<button class="tab-pill ${isActive ? 'active' : ''}" onclick="filterByCollection('${handle}')">${c.name}</button>`;
   }).join('');
 }
 
@@ -267,7 +307,7 @@ function renderHomeProductsGrid(handle) {
       <div class="card-image-wrap">
         <img src="${p.img}" alt="${parsed.mainTitle}" loading="lazy"
              onerror="this.outerHTML='<div style=\\'aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;background:#F5F4F9;color:#5E4EA8;\\'><img src=\\'hob-bird-clean.png\\' alt=\\'House of Bulbul\\' style=\\'width:36px;opacity:0.4;\\'></div>'">
-        ${isSale ? `<span class="card-corner-badge">SALE</span>` : ''}
+        ${p.featured ? `<span class="card-corner-badge" style="background:#43348C;color:#FFF">FEATURED</span>` : (isSale ? `<span class="card-corner-badge">SALE</span>` : '')}
         <button class="card-quick-bag-btn ${qty > 0 ? 'in-bag' : ''}" onclick="event.stopPropagation(); quickAddToCart(${p.id})" title="${qty > 0 ? 'In your bag' : 'Add to bag'}" aria-label="Add to bag">
           <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"/>
@@ -361,6 +401,29 @@ const CATEGORY_FOLDERS_CONFIG = [
 let categoryFolderInstances = {};
 let categoryFoldersInitialized = false;
 
+function getActiveFoldersConfig() {
+  const configs = [...CATEGORY_FOLDERS_CONFIG];
+  const set = new Set(configs.map(c => c.handle));
+
+  if (window.COLLECTIONS) {
+    Object.entries(window.COLLECTIONS).forEach(([handle, col]) => {
+      if (handle === 'all') return;
+      if (!set.has(handle) && (col.isFeatured || (col.productIds && col.productIds.length > 0))) {
+        configs.push({
+          handle: handle,
+          label: col.name,
+          color: col.folderColor || '#4A2068',
+          doodle: col.folderDoodle || 'wedding',
+          mode: 'flap',
+          productIds: col.productIds || []
+        });
+        set.add(handle);
+      }
+    });
+  }
+  return configs;
+}
+
 function initCategoryFolders() {
   const container = document.getElementById("categoryFoldersGrid");
   if (!container || typeof Folder === "undefined") return;
@@ -376,7 +439,7 @@ function initCategoryFolders() {
   container.innerHTML = "";
   categoryFolderInstances = {};
 
-  CATEGORY_FOLDERS_CONFIG.forEach(cfg => {
+  getActiveFoldersConfig().forEach(cfg => {
     const col = COLLECTIONS[cfg.handle] || COLLECTIONS['all'] || {};
     const colProductIds = col.productIds || [];
     const count = colProductIds.length;
@@ -473,6 +536,7 @@ function openCollectionPage(handle, push = true) {
   if (countEl) countEl.textContent = `[ ${(c.productIds || []).length} ITEMS ]`;
   if (tagEl) tagEl.textContent = (c.name || "COLLECTIONS").toUpperCase();
 
+  renderCategoryFilterTabs();
   filterByCollection(handle);
 
   if (push) {
@@ -521,7 +585,9 @@ function filterByCollection(handle) {
     btn.classList.toggle("active", fnStr.includes(`'${handle}'`));
   });
 
-  const c = COLLECTIONS[handle] || COLLECTIONS["all"];
+  const allColls = (typeof window !== 'undefined' && window.COLLECTIONS) || COLLECTIONS;
+  const allProds = (typeof window !== 'undefined' && window.PRODUCTS) || PRODUCTS;
+  const c = allColls[handle] || allColls["all"] || { name: 'All Products', productIds: [] };
   const titleEl = document.getElementById("currentCollectionTitle");
   const colCountEl = document.getElementById("currentCollectionCount");
   if (titleEl) titleEl.textContent = c.name || "All Products";
@@ -530,10 +596,10 @@ function filterByCollection(handle) {
   const searchInput = document.getElementById("productSearchInput");
   const query = (searchInput ? searchInput.value : "").trim().toLowerCase();
 
-  let items = c.productIds.map(id => PRODUCTS[id]).filter(Boolean);
+  let items = (c.productIds || []).map(id => allProds[id] || allProds[String(id)]).filter(Boolean);
 
   if (query) {
-    items = items.filter(p => p.name.toLowerCase().includes(query));
+    items = items.filter(p => (p.name || '').toLowerCase().includes(query) || (p.handle || '').toLowerCase().includes(query));
   }
 
   renderProductsGrid(items);
@@ -595,7 +661,7 @@ function renderProductsGrid(items) {
       <div class="card-image-wrap">
         <img src="${p.img}" alt="${parsed.mainTitle}" loading="lazy"
              onerror="this.outerHTML='<div style=\\'aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;background:#F5F4F9;color:#5E4EA8;\\'><img src=\\'hob-bird-clean.png\\' alt=\\'House of Bulbul\\' style=\\'width:36px;opacity:0.4;\\'></div>'">
-        ${isSale ? `<span class="card-corner-badge">SALE</span>` : ''}
+        ${p.featured ? `<span class="card-corner-badge" style="background:#43348C;color:#FFF">FEATURED</span>` : (isSale ? `<span class="card-corner-badge">SALE</span>` : '')}
         <button class="card-quick-bag-btn ${qty > 0 ? 'in-bag' : ''}" onclick="event.stopPropagation(); quickAddToCart(${p.id})" title="${qty > 0 ? 'In your bag' : 'Add to bag'}" aria-label="Add to bag">
           <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"/>
@@ -1209,7 +1275,8 @@ function handleRoute() {
     const slug = decodeURIComponent(raw).trim().toLowerCase();
 
     // Match by handle, numeric id, or title slug
-    const found = Object.values(PRODUCTS).find(p => {
+    const allProds = (typeof window !== 'undefined' && window.PRODUCTS) || PRODUCTS;
+    const found = Object.values(allProds).find(p => {
       if (p.handle && p.handle.toLowerCase() === slug) return true;
       if (String(p.id) === slug) return true;
       const nameSlug = (p.name || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -1298,8 +1365,17 @@ function showArchivedNotice(slug) {
 window.addEventListener("popstate", handleRoute);
 window.addEventListener("hashchange", handleRoute);
 
+function formatProductDescription(desc) {
+  if (!desc) return '<p>Artisanal keepsake handcrafted by master generational artisans with authentic devotion.</p>';
+  if (/<[a-z][\s\S]*>/i.test(desc)) {
+    return desc;
+  }
+  return desc.split(/\n\s*\n/).map(para => `<p>${para.trim().replace(/\n/g, '<br>')}</p>`).join('');
+}
+
 function renderProductDetailPage(id) {
-  const p = PRODUCTS[id];
+  const allProds = (typeof window !== 'undefined' && window.PRODUCTS) || PRODUCTS;
+  const p = allProds[id] || allProds[String(id)];
   if (!p) return;
 
   const parsed = parseProductTitle(p.name);
@@ -1373,7 +1449,7 @@ function renderProductDetailPage(id) {
             <span class="pdp-acc-icon">+</span>
           </summary>
           <div class="pdp-acc-body">
-            ${p.description || '<p>Artisanal keepsake handcrafted by master generational artisans with authentic devotion.</p>'}
+            ${formatProductDescription(p.description)}
           </div>
         </details>
 
@@ -1528,8 +1604,21 @@ function handleHashRoute() {
   }
 }
 
+// Expose helper to reset 3D folders when live DB products load
+window.__hobResetFolders = function() {
+  categoryFoldersInitialized = false;
+  const container = document.getElementById("categoryFoldersGrid");
+  if (container) container.innerHTML = "";
+  if (typeof initCategoryFolders === "function") {
+    initCategoryFolders();
+  }
+};
+
 // ---------- INITIALIZE ----------
+var _appInitialized = false;
 function initApp() {
+  if (_appInitialized) return;
+  _appInitialized = true;
   renderHomeCollections();
   renderBentoCollage();
   initScrollAnimations();
@@ -1537,9 +1626,9 @@ function initApp() {
   handleRoute();
 }
 
-document.addEventListener("DOMContentLoaded", initApp);
-
-if (document.readyState === "complete" || document.readyState === "interactive") {
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initApp);
+} else {
   initApp();
 }
 

@@ -528,8 +528,62 @@
   </div>
 </div>
 
+<!-- Static Fallback — keeps site alive instantly even if DB is unreachable -->
 <script src="/data.js"></script>
 <script src="/Folder.js"></script>
-<script src="/app.js"></script>
+
+<!-- Live Database Hydration — fetches published products/collections from DB, then starts app.js -->
+<script>
+(function () {
+  'use strict';
+
+  function loadAppJs() {
+    var s = document.createElement('script');
+    s.src = '/app.js';
+    document.body.appendChild(s);
+  }
+
+  function applyLiveData(data) {
+    try {
+      if (data.PRODUCTS && typeof data.PRODUCTS === 'object') {
+        window.PRODUCTS = data.PRODUCTS;
+        try { PRODUCTS = data.PRODUCTS; } catch (_) {}
+      }
+      if (data.COLLECTIONS && typeof data.COLLECTIONS === 'object') {
+        window.COLLECTIONS = data.COLLECTIONS;
+        try { COLLECTIONS = data.COLLECTIONS; } catch (_) {}
+      }
+      if (data.WHATSAPP_NUMBER) {
+        window.WHATSAPP_NUMBER = data.WHATSAPP_NUMBER;
+        try { WHATSAPP_NUMBER = data.WHATSAPP_NUMBER; } catch (_) {}
+      }
+      if (data.SETTINGS && typeof data.SETTINGS === 'object') {
+        window.SITE_SETTINGS = data.SETTINGS;
+      }
+      if (data.ACTIVE_CAMPAIGN !== undefined) {
+        window.ACTIVE_CAMPAIGN = data.ACTIVE_CAMPAIGN;
+      }
+      if (typeof window.__hobResetFolders === 'function') {
+        window.__hobResetFolders();
+      }
+    } catch (e) {
+      console.warn('[HOB] Could not apply live data:', e);
+    }
+  }
+
+  fetch('/api/storefront/data', { cache: 'no-store' })
+    .then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(function (data) {
+      applyLiveData(data);
+      loadAppJs();
+    })
+    .catch(function (err) {
+      loadAppJs();
+    });
+})();
+</script>
 </body>
 </html>

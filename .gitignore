@@ -28,3 +28,5 @@ node_modules/
 test-*.html
 test-*.js
 
+.neon
+uploads/

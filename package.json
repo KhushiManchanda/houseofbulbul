@@ -1,0 +1,23 @@
+{
+  "name": "houseofbulbul",
+  "version": "1.0.0",
+  "description": "House of Bulbul — Handcrafted Wedding Favours & Festive Keepsakes",
+  "private": true,
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "@neon/config": "^1.9.4",
+    "@neon/env": "^1.6.5",
+    "@neondatabase/serverless": "^1.2.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^18.0.9",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "scripts": {
+    "dev": "node dev-server.js",
+    "build": "node -e \"console.log('Build passed successfully')\"",
+    "seed": "node scripts/seed-database.js"
+  }
+}

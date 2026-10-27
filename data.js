@@ -4,9 +4,9 @@
 // Total Products: 251
 // ============================================
 
-const WHATSAPP_NUMBER = "919354811266"; // WhatsApp: 9354811266
+var WHATSAPP_NUMBER = "919354811266"; // WhatsApp: 9354811266
 
-const PRODUCTS = {
+var PRODUCTS = {
   "9294165967060": {
     "id": 9294165967060,
     "name": "Handmade Crochet Shell Bag with Pearls | Beach Boho Shoulder Bag for Women",
@@ -2767,7 +2767,7 @@ const PRODUCTS = {
   }
 };
 
-const COLLECTIONS = {
+var COLLECTIONS = {
   "all": {
     "name": "All Products",
     "productIds": [
